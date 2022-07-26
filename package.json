@@ -1,7 +1,19 @@
 {
-  "name": "husky",
+  "name": "prettier-eslint-husky-template",
   "version": "0.1.0",
-  "private": true,
+  "description": "This is cra template that includes husky precommit hook with prettier and eslint config",
+  "keywords": [
+    "prettier",
+    "eslint",
+    "husky"
+  ],
+  "homepage": "https://github.com/ugurkellecioglu/prettier-eslint-husky-template",
+  "bugs": {
+    "url": "https://github.com/ugurkellecioglu/prettier-eslint-husky-template/issues",
+    "email": "ugur.kellecioglu@outlook.com"
+  },
+  "author": "Uğur Kellecioğlu <ugur.kellecioglu@outlook.com> (http://ugurkellecioglu.me/)",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
