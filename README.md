@@ -1,6 +1,8 @@
 
 # Prettier Eslint Husky Template
 
+ - [Read in English](https://github.com/ugurkellecioglu/prettier-eslint-husky-template/blob/main/README.EN.md)
+
 Bu repository mediumdaki yazıma ithafen açılmıştır.
 Gerekli paketlerin projeye eklenmiş (prettier, eslint, husky) ve konfigürasyonları yapılmış hali.
 
